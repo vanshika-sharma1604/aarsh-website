@@ -34,7 +34,7 @@ export default function Experience() {
             <p className="text-xl text-gray-500">My journey across startups, consulting, finance, and social impact.</p>
           </div>
 
-          <div className="space-y-8">
+          <div className="space-y-8 mb-16">
             {/* Eidos Press */}
             <div className="bg-gradient-to-br from-white to-gray-400 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
               <div className="flex flex-col md:flex-row md:items-start md:justify-between mb-4">
@@ -136,6 +136,43 @@ export default function Experience() {
                   • Generated $130K in sales with a 21% EBITDA margin, and funded my college tuition through business
                   profits
                 </p>
+              </div>
+            </div>
+          </div>
+
+          <div className="text-center mb-16">
+            <h2 className="text-5xl font-bold text-white mb-6">Education</h2>
+            <p className="text-xl text-gray-500">My academic journey and achievements.</p>
+          </div>
+
+          <div className="space-y-8">
+            {/* Columbia University */}
+            <div className="bg-gradient-to-br from-white to-gray-400 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
+              <div className="flex flex-col md:flex-row md:items-start md:justify-between mb-4">
+                <div>
+                  <h3 className="text-2xl font-bold text-gray-900">Columbia University, New York, NY</h3>
+                  <p className="text-gray-600 font-medium text-lg">Bachelor of Arts in Economics - GPA: 3.9</p>
+                </div>
+                <p className="text-gray-500 md:text-right">Sep 22 - May 24</p>
+              </div>
+              <div className="space-y-3 text-gray-700 leading-relaxed">
+                <p>• Academic Recognitions: GS Merit Scholarship, Dean’s List (All semesters)</p>
+              </div>
+            </div>
+
+            {/* Sciences Po */}
+            <div className="bg-gradient-to-br from-white to-gray-400 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
+              <div className="flex flex-col md:flex-row md:items-start md:justify-between mb-4">
+                <div>
+                  <h3 className="text-2xl font-bold text-gray-900">Sciences Po, Paris, France</h3>
+                  <p className="text-gray-600 font-medium text-lg">
+                    Bachelor of Arts in Sociology, Minor in Legal Studies - GPA: 4.0
+                  </p>
+                </div>
+                <p className="text-gray-500 md:text-right">Sep 20 - May 22</p>
+              </div>
+              <div className="space-y-3 text-gray-700 leading-relaxed">
+                <p>• Academic Recognitions: Summa Cum Laude</p>
               </div>
             </div>
           </div>
