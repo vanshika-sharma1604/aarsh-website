@@ -166,19 +166,19 @@ export default function HomePage() {
             <article className="bg-gradient-to-br from-gray-50 to-gray-200 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
               <div className="aspect-[4/3] bg-gray-900 rounded-xl mb-6 overflow-hidden">
                 <img
-                  src="/images/positive-interference.png"
-                  alt="The Art of Positive Interference"
+                  src="/images/bootstrapping-europe.png"
+                  alt="Bootstrapping in Europe: What I Wish I Knew"
                   className="w-full h-full object-cover"
                 />
               </div>
-              <span className="text-sm text-gray-900 font-medium">Philosophy</span>
-              <h3 className="text-xl font-bold text-gray-900 mt-2 mb-3">The Art of Positive Interference</h3>
+              <span className="text-sm text-gray-900 font-medium">Entrepreneurship</span>
+              <h3 className="text-xl font-bold text-gray-900 mt-2 mb-3">Bootstrapping in Europe: What I Wish I Knew</h3>
               <p className="text-gray-700 leading-relaxed mb-4">
-                Why the best innovations come from deliberately disrupting existing patterns and creating constructive
-                friction.
+                Hard-won lessons from building a profitable export business from scratch, including the mistakes that
+                taught me the most.
               </p>
               <Link
-                href="/thoughts/art-of-positive-interference"
+                href="/thoughts/bootstrapping-europe-lessons"
                 className="text-gray-900 font-medium hover:text-gray-600 transition-colors"
               >
                 Read more →
