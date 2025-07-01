@@ -36,7 +36,7 @@ export default function Experience() {
 
           <div className="space-y-8">
             {/* Eidos Press */}
-            <div className="bg-gradient-to-br from-gray-50 to-gray-200 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
+            <div className="bg-gradient-to-br from-white to-gray-400 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
               <div className="flex flex-col md:flex-row md:items-start md:justify-between mb-4">
                 <div>
                   <h3 className="text-2xl font-bold text-gray-900">Eidos Press</h3>
@@ -55,7 +55,7 @@ export default function Experience() {
             </div>
 
             {/* McKinsey */}
-            <div className="bg-gradient-to-br from-gray-50 to-gray-200 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
+            <div className="bg-gradient-to-br from-white to-gray-400 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
               <div className="flex flex-col md:flex-row md:items-start md:justify-between mb-4">
                 <div>
                   <h3 className="text-2xl font-bold text-gray-900">McKinsey & Company, New York</h3>
@@ -77,7 +77,7 @@ export default function Experience() {
             </div>
 
             {/* Morgan Stanley */}
-            <div className="bg-gradient-to-br from-gray-50 to-gray-200 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
+            <div className="bg-gradient-to-br from-white to-gray-400 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
               <div className="flex flex-col md:flex-row md:items-start md:justify-between mb-4">
                 <div>
                   <h3 className="text-2xl font-bold text-gray-900">Morgan Stanley, New York</h3>
@@ -98,7 +98,7 @@ export default function Experience() {
             </div>
 
             {/* Skilled Hands Foundation */}
-            <div className="bg-gradient-to-br from-gray-50 to-gray-200 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
+            <div className="bg-gradient-to-br from-white to-gray-400 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
               <div className="flex flex-col md:flex-row md:items-start md:justify-between mb-4">
                 <div>
                   <h3 className="text-2xl font-bold text-gray-900">Skilled Hands Foundation</h3>
@@ -119,7 +119,7 @@ export default function Experience() {
             </div>
 
             {/* Rock & Monk */}
-            <div className="bg-gradient-to-br from-gray-50 to-gray-200 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
+            <div className="bg-gradient-to-br from-white to-gray-400 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
               <div className="flex flex-col md:flex-row md:items-start md:justify-between mb-4">
                 <div>
                   <h3 className="text-2xl font-bold text-gray-900">Rock & Monk</h3>

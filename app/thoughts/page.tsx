@@ -86,7 +86,7 @@ export default function Thoughts() {
             {thoughts.map((thought) => (
               <article
                 key={thought.id}
-                className="bg-gradient-to-br from-gray-50 to-gray-200 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors"
+                className="bg-gradient-to-br from-white to-gray-400 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors"
               >
                 <div className="aspect-[4/3] bg-gray-900 rounded-xl mb-6 overflow-hidden">
                   <img

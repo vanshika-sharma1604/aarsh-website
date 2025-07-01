@@ -47,7 +47,7 @@ export default function Contact() {
             </p>
           </div>
 
-          <div className="bg-gradient-to-br from-gray-50 to-gray-200 rounded-2xl p-8 max-w-2xl mx-auto border border-gray-200">
+          <div className="bg-gradient-to-br from-white to-gray-400 rounded-2xl p-8 max-w-2xl mx-auto border border-gray-200">
             <form id="contact-form" className="space-y-6">
               <div>
                 <label htmlFor="name" className="block text-sm font-medium text-gray-600 mb-2">

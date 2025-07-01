@@ -91,7 +91,7 @@ export default function HomePage() {
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {/* Eurus Labs */}
-            <div className="bg-gradient-to-br from-gray-50 to-gray-200 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
+            <div className="bg-gradient-to-br from-white to-gray-400 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
               <div className="mb-6">
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Eurus Labs</h3>
                 <p className="text-gray-600 font-medium">Founder & CEO</p>
@@ -103,7 +103,7 @@ export default function HomePage() {
             </div>
 
             {/* Eidos Press */}
-            <div className="bg-gradient-to-br from-gray-50 to-gray-200 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
+            <div className="bg-gradient-to-br from-white to-gray-400 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
               <div className="mb-6">
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Eidos Press</h3>
                 <p className="text-gray-600 font-medium">Co-Founder</p>
@@ -116,7 +116,7 @@ export default function HomePage() {
             </div>
 
             {/* McKinsey */}
-            <div className="bg-gradient-to-br from-gray-50 to-gray-200 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
+            <div className="bg-gradient-to-br from-white to-gray-400 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
               <div className="mb-6">
                 <h3 className="text-xl font-bold text-gray-900 mb-2">McKinsey & Company</h3>
                 <p className="text-gray-600 font-medium">Business Analyst</p>
@@ -142,7 +142,7 @@ export default function HomePage() {
           <h2 className="text-4xl font-bold text-white mb-16">Recent thoughts</h2>
 
           <div className="grid md:grid-cols-2 gap-8">
-            <article className="bg-gradient-to-br from-gray-50 to-gray-200 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
+            <article className="bg-gradient-to-br from-white to-gray-400 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
               <div className="aspect-[4/3] bg-gray-900 rounded-xl mb-6 overflow-hidden">
                 <img
                   src="/images/modular-ai-tools.png"
@@ -163,7 +163,7 @@ export default function HomePage() {
               </Link>
             </article>
 
-            <article className="bg-gradient-to-br from-gray-50 to-gray-200 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
+            <article className="bg-gradient-to-br from-white to-gray-400 rounded-2xl p-8 border border-gray-200 hover:border-gray-300 transition-colors">
               <div className="aspect-[4/3] bg-gray-900 rounded-xl mb-6 overflow-hidden">
                 <img
                   src="/images/bootstrapping-europe.png"
